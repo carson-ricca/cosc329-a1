@@ -1,1 +1,1 @@
-# cosc329-a1
+# COSC 329 - Assignment #1
