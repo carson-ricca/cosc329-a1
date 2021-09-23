@@ -165,5 +165,5 @@ def calculate_fres(contents):
 
 
 if __name__ == "__main__":
-    # process_files()
+    process_files()
     calculate_meta_features()
